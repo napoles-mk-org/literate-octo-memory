@@ -5,7 +5,7 @@ inputs:
     description: Key from your MuukTest account. Download from Portal.
     required: true
   tag-property:
-    description: [tag/hashtag] Either you want to run a single test tag or a set of test by hashtag.
+    description: Either you want to run a single test tag or a set of test by hashtag.
     required: true
   tag-value:
     description: Value according the tag type selected. 
